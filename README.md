@@ -10,6 +10,7 @@ Covid.py ===> Python Codes of deploying RandomForestRegressor, DecisionTreeRegre
 
 
 فایلهای پیوست  شامل موارد ذیل می باشند :
+
 1-	Project1.ipynb : در این فایل طبق روال پروژه های قبلی در بخش های مشخص شده کد ها و خروجی های مورد نظر پیاده سازی شده اند.
 2-	PyCaret_Vaccination.ipynb : این فایل که در گوگل کولب ایجاد گردیده است شامل پیاده سازی و مقایسه مدل های مختلف رگرسیون با استفاده از ماژول PyCaret می باشد. آدرس دسترسی به این فایل :
 https://colab.research.google.com/github/iamBehzad/Streamlit/blob/main/PyCaret_Vaccination.ipynb 
