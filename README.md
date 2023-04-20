@@ -10,7 +10,7 @@ Python Code of some various regressor Model for prediction Covid Vaccination wit
 
 ## Covid.py:  
 Python Codes of deploying RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model on Streamlit 
-
+<br><br><br>
 
 <p dir='rtl' align='right'>
 1-	Project1.ipynb : در این فایل در بخش های مشخص شده کد ها و خروجی های مورد نظر پیاده سازی شده اند.
