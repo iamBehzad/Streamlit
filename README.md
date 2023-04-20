@@ -1,13 +1,13 @@
 # Streamlit Vaccination Regression  
 
 ## Project1.ipynb:  
-Python Code of RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model for prediction Covid Vaccination with scikit-learn module
+A project that utilizes various regression models to predict Covid vaccination rates. The project uses Python with the Scikit-Learn and PyCaret modules. It provides Python code for RandomForestRegressor, DecisionTreeRegressor, KNeighborsRegressor, and LinearRegression models.  
 
 ## PyCaret_Vaccination.ipynb:  
 Python Code of some various regressor Model for prediction Covid Vaccination with PyCaret module
 
 ## Covid.py:  
-Python Codes of deploying RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model on Streamlit:  
+The project provides Python code for deploying RandomForestRegressor, DecisionTreeRegressor, KNeighborsRegressor, and LinearRegression models on the Streamlit cloud, which allows for easy access and sharing.
 https://iambehzad-streamlit-covid-ckts8l.streamlit.app/
 <br><br><br>
 
