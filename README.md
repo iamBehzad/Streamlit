@@ -1,6 +1,5 @@
 https://iambehzad-streamlit-covid-ckts8l.streamlit.app/
 
-
 ## Project1.ipynb:  
 Python Code of RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model for prediction Covid Vaccination with scikit-learn module
 
@@ -20,3 +19,4 @@ Python Codes of deploying RandomForestRegressor, DecisionTreeRegressor, KNeighbo
 <p dir='rtl' align='right'>
 3-	Covid.py : در این فایل با استفاده از کتابخانه Streamlit  و همچنین مدل های RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression  که قبلا با استفاده از کتابخانه Scikit-Learnو یا PyCaret آموزش و ذخیره شده بودند (.pkl) خروجی مدل ها به صورت یک نرم افزار تحت وب ایجاد و بر روی فضای ابری سایت Streamlit به آدرس ذیل قرار داده شده است :
 </p>
+https://iambehzad-streamlit-covid-ckts8l.streamlit.app/
